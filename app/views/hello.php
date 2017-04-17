@@ -35,7 +35,7 @@
 </head>
 <body>
 	<div class="welcome">
-		<a href="http://laravel.com" title="Laravel PHP Framework">
+		<a href="http://laravel.com" title="Laravel PHP Framework 2">
 			
 		Laravel 4.2
 		</a>
