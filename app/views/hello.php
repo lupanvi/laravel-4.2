@@ -39,7 +39,7 @@
 			
 		Laravel 4.2
 		</a>
-		<h1>You have arrived.</h1>
+		<h1>You have arrived</h1>
 	</div>
 </body>
 </html>
