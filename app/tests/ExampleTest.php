@@ -20,4 +20,9 @@ class ExampleTest extends TestCase {
         $this->assertEquals('arrived', $response->getContent());
     }
 
+    public function testAssertEquals()
+    {
+    	
+        $this->assertEquals(1000, 99);
+    }
 }
