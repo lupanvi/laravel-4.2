@@ -25,4 +25,12 @@ class ExampleTest extends TestCase {
     	
         $this->assertEquals(1000, 99);
     }
+
+    public function testAssertEquals2()
+    {
+    	
+        $this->assertEquals(1000, 89);
+    }
 }
+
+
