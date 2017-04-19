@@ -14,4 +14,11 @@ class PagesController extends BaseController {
     return View::make('aboutus');
   }
 
+  public function gallery()
+  {
+      
+    return View::make('gallery');
+  }
+
+
 }
