@@ -20,5 +20,11 @@ class PagesController extends BaseController {
     return View::make('gallery');
   }
 
+   public function friends()
+  {
+      
+    return View::make('friends');
+  }
+
 
 }
