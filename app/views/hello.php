@@ -36,7 +36,7 @@
 <body>
 	<div class="welcome">
 		
-		<h1>You have arrived to laravel 4.2</h1>
+		<h1>You have arrived to laravel 4.2.1</h1>
 	</div>
 </body>
 </html>
